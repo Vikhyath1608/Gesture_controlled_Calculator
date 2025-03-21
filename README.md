@@ -25,7 +25,7 @@ This project is a **Virtual Calculator** that is controlled using **hand gesture
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/gesture-calculator.git
+   git clone https://github.com/Vikhyath1608/Gesture_controlled_Calculator.git
    cd gesture-calculator
    ```
 2. Install dependencies:
